@@ -6,5 +6,5 @@ public class prg5 {
 		// TODO Auto-generated method stub
 		System.out.println("Tercer proyectoooooooooooooooooo segunda modificacion");
 	}
-
+hola desde clase de ides
 }
