@@ -6,5 +6,9 @@ public class prg5 {
 		// TODO Auto-generated method stub
 		System.out.println("Tercer proyectoooooooooooooooooo segunda modificacion");
 	}
-hola desde clase de ides
+	int n=5;
+	for(int i=0;i<n;i++){
+	System.out.println("Si se imprime este mensaje 5 veces me pones un 10"); 
+}
+
 }
